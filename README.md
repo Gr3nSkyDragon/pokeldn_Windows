@@ -1,3 +1,5 @@
+# Edit: This repository is no longer maintained due to Decryptu adding native Windows support
+
 <p align="center">
   <img src=".github/assets/banner.png" alt="pokeldn: ESP32-powered local wireless toolkit for Pokémon on Nintendo Switch" width="100%">
 </p>
